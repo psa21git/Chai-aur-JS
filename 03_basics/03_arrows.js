@@ -52,3 +52,5 @@ console.log(addTwo(3, 4))
 // const myArray = [2, 5, 3, 7, 8]
 
 // myArray.forEach()
+
+// let myArray = [1,2,3,4,5,6,7,8,9,0]
